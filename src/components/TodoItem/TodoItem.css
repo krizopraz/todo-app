@@ -1,0 +1,15 @@
+.element,.done{
+    margin:0
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    text-align: center;
+}
+.done{
+    text-decoration: line-through solid black ;
+}
+.mybtn{
+    text-decoration: none!important ;
+}
